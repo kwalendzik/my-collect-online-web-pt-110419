@@ -1,5 +1,5 @@
 def my_collect (array)
-  if array.length > 0
+  #if array.length > 0
     i = 0
   
   collections = []
@@ -8,9 +8,6 @@ def my_collect (array)
   i = i + 1
   end
   collections
-  
-else
-  
 end
 
 
